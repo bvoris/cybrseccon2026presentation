@@ -1,6 +1,6 @@
 # CYBRSECCON 2026 Presentation
 
-<IMG SRC="https://github.com/bvoris/houseccon2025presentation/blob/main/Speaker%20Tiles_LinkedIn_BVoris.png?raw=true">
+<IMG SRC="https://github.com/bvoris/cybrseccon2026presentation/blob/main/images/Brad%20Voris%201200x628.png?raw=true">
 Created By:Brad Voris <BR />
 Description: A copy of my presentation for CYBRSECCON 2026. The presentation provides detail on my mentorship program, what employers are looking for, and how to develop your own plan.
 <BR /><BR />
