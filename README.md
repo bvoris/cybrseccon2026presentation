@@ -9,7 +9,7 @@ Description: A copy of my presentation for CYBRSECCON 2026. The presentation pro
 <a href="https://github.com/bvoris/"> PDF of Presentation</a><BR />
 <a href="https://github.com/bvoris/cybrseccon2026presentation/raw/refs/heads/main/CYBR.SEC.CON.%20Presentation.pptx">PowerPoint of Presentation</a><BR /><BR />
 
-## HOU.SEC.CON Recorded Presentation
+## CYBR.SEC.CON Recorded Presentation
 https://www.youtube.com/watch?v=<BR /><BR />
 
 ## Documentation for the existing mentorship program
