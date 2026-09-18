@@ -12,8 +12,11 @@ Description: A copy of my presentation for CYBRSECCON 2026. The presentation pro
 ## CYBR.SEC.CON Recorded Presentation
 https://www.youtube.com/watch?v=<BR /><BR />
 
+## Link to Role Research
+<a href="https://github.com/bvoris/mentorship-roleresearch">Mentorship Role Research - 2026</a>
+
 ## Documentation for the existing mentorship program
-https://github.com/bvoris/MyMentorshipProgram
+<a href="https://github.com/bvoris/MyMentorshipProgram">Mentorship Program Overview</a>
 
 ## Original Abstract
 Abstract/Objective:
