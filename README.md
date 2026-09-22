@@ -18,7 +18,7 @@ https://www.youtube.com/watch?v=<BR /><BR />
 ## Documentation for the existing mentorship program
 <a href="https://github.com/bvoris/MyMentorshipProgram">Mentorship Program Overview</a>
 
-## A Letter To Employers...
+## Presentation Excerpt: "A Letter To Employers..."
 "Thank you for the time and effort that you and your organization invested throughout the interview process. I truly appreciate the opportunity to meet with the team and participate in the numerous interviews, the one-hour presentation, and screening discussions.
 After careful consideration, I have decided to move forward with another organization whose opportunity aligns more closely with my current career goals and personal needs.
 I understand how competitive your selection process is, and with that in mind, I regret to inform you that your organization was not selected. While this may come as a surprise, I hope you can appreciate the irony after the thorough evaluation process we both experienced.
