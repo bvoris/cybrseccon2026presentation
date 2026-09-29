@@ -10,7 +10,7 @@ Description: A copy of my presentation for CYBRSECCON 2026. The presentation pro
 <a href="https://github.com/bvoris/cybrseccon2026presentation/raw/refs/heads/main/CYBR.SEC.CON.%20Presentation.pptx">PowerPoint of Presentation</a><BR /><BR />
 
 ## CYBR.SEC.CON Recorded Presentation
-https://www.youtube.com/watch?v=<BR /><BR />
+[https://www.youtube.com/watch?v=](https://www.youtube.com/watch?v=ZDZuJ-oWDZw)<BR /><BR />
 
 ## Link to Role Research
 <a href="https://github.com/bvoris/mentorship-roleresearch">Mentorship Role Research - 2026</a>
